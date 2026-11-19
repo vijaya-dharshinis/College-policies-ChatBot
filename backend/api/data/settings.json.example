@@ -1,0 +1,7 @@
+{
+  "api_key": "YOUR_GEMINI_API_KEY_HERE",
+  "model_name": "gemini-2.5-flash",
+  "temperature": 0.2,
+  "top_k": 4,
+  "max_tokens": 800
+}
