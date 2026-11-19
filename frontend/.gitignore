@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+# dist included for out-of-the-box Django serving
 dist-ssr
 *.local
 
